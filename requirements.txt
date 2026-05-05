@@ -1,4 +1,4 @@
 pyrogram
 tgcrypto
-norsodikin==1.0.3
+norsodikin
 python-dotenv
